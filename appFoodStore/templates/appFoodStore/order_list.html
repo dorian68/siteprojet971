@@ -1,0 +1,65 @@
+{% extends "./base.html" %}
+
+{% block orderList %}
+<div class="container">
+    <div class="row row-cols-4">
+    {% for elem in orderList %}
+        <div class="col">
+            <div class="card text-center">
+                <div class="card-header">
+                    <h5>Order #{{elem.OrderNumber}}</h5>
+                    <p>Nov 11, 2022 , 18:38 PM</p>
+                </div>
+
+                <div class="container border-bottom">
+                    <div class="card-body">
+                    <h5 class="card-title">Restaurant name #{{elem.OrderNumber}}</h5>
+                    <p class="card-text">5.0 1k+ Reviews</p>
+                    </div>
+                </div>
+            
+                <div class="container border-bottom">
+                    <div class="card-body">
+                    <p class="card-title">Delivery time         {{elem}}Min</p>
+                    <p class="card-text">Distance           {{elem}}Km</p>
+                    </div>
+                </div>
+
+                <!-- ORDERING LIST -->
+                <div class="container border-bottom">
+                    <div class="d-flex align-items-center mb-2">
+                    <img class="me-2" src="https://fooddesk.dexignlab.com/xhtml/images/popular-img/review-img/pic-2.jpg" width="20%">
+                        <div>
+                            <h6 class="card-title">Delivery time         {{elem}}Min</p>
+                            <p class="card-text">Distance           {{elem}}Km</p>
+                        </div>
+                        <h6>$45.99</h6>
+                    </div>
+                </div>
+                <div class="container border-bottom">
+                    <div class="d-flex align-items-center mb-2">
+                    <img class="me-2" src="https://fooddesk.dexignlab.com/xhtml/images/popular-img/review-img/pic-2.jpg" width="20%">
+                        <div>
+                            <h6 class="card-title">Delivery time   -------      {{elem}}Min</p>
+                            <p class="card-text">Distance      -------     {{elem}}Km</p>
+                        </div>
+                    </div>
+                </div>
+                <!-- ORDERING LIST -->
+                <div class="container">
+                    <div class="card-body">
+                    <h5 class="card-title">Total                ${{elem.TotalOrderPrice}}</h5>
+                    <a href="#" class="btn btn-outline-secondary">Go somewhere</a>
+                    </div>
+                </div>
+
+                <div class="card-footer text-muted">
+                2 days ago
+                </div>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+</div>
+{% endblock %}
+

@@ -1,0 +1,51 @@
+name,restaurand_id,price,rate,image
+"Cheeseburger classique",1,"https://cache.marieclaire.fr/data/photo/w1200_h630_ci/54/cheeseburger-classique.jpg",25,1
+"Cheeseburger double",1,"https://eu-images.contentstack.com/v3/assets/blt5004e64d3579c43f/blt1120cc4c9b261d0d/66043ae5dd76c70b0af663a8/400x400_Double_cheese.png?auto=webp",8,2
+"Cheeseburger bacon",1,"https://www.simplyrecipes.com/thmb/cgJTtVSTy-ftI1dBM4P2x2FJf14=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simply-Recipes-Bacon-Cheeseburger-LEAD-2b-6606850da0164612b5fb406a0e33f8df.jpg",25,1
+"Cheeseburger au poulet",1,"https://chefrecettes.s3.eu-west-3.amazonaws.com/recettes/605cab4106a76ae053b6f0a6bd122a415955ce86769d1.jpg",25,5
+"Cheeseburger végétarien",1,"https://www.hervecuisine.com/wp-content/uploads/2020/04/burger-vegan-1280x720.jpg",14,4
+"Hamburger simple",1,"https://campingfoodrecipes.com/wp-content/uploads/2023/05/simple-burger-recipe-no-breadcrumbs.jpg",13,1
+"Hamburger double",1,"https://sf1.viepratique.fr/wp-content/uploads/sites/2/2014/03/shutterstock_174648068.jpg",21,3
+"Hamburger bacon",1,"https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2FCAC.2Fvar.2Fcui.2Fstorage.2Fimages.2Fdossiers-gourmands.2Ftendance-cuisine.2F40-recettes-de-burger-hyper-faciles-et-super-gourmandes-298675.2F3219254-1-fre-FR.2F40-recettes-de-burger-hyper-faciles-et-super-gourmandes.2Ejpg/750x562/quality/80/crop-from/center/cr/wqkgU3R1ZGlvLyBTdWNyw6kgU2Fsw6kgLyBDdWlzaW5lIEFjdHVlbGxl/hamburger-au-bacon.jpeg",14,3
+"Hamburger au poulet",1,"https://cdn.pratico-pratiques.com/app/uploads/sites/2/2021/04/07132056/burgers-de-poulet-farcis-au-fromage-et-legumes-grilles.jpg",16,3
+"Hamburger végétarien",1,"https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F2842e58a-5673-4c49-82a0-aafe5a104e1a.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgQm9uby8gU3VjcsOpIFNhbMOpIC8gQ3Vpc2luZSBBY3R1ZWxsZQ%3D%3D/hamburger-vegetarien.jpeg",7,3
+"Frites classiques",1,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqUXSkpFdRiXcRvLWoHaoP0sr6PvH-rYo2yA&usqp=CAU",15,4
+"Frites au fromage",1,"https://upload.wikimedia.org/wikipedia/commons/0/03/Shake_shack_cheese_fries.jpg",22,2
+"Frites chili cheese",1,"https://fromagerielachaudiere.com/wp-content/uploads/2021/01/chili-cheese-fries-WEB_dec2020.jpg",23,3
+"Frites bacon",1,"https://www.the-first-eat-market.fr/wp-content/uploads/2022/08/frites-cheesy-bacon.png",12,5
+"Onion rings",1,"https://static01.nyt.com/images/2020/04/22/dining/ejm-sourdough-03/ejm-sourdough-03-superJumbo.jpg",8,4
+"Nuggets de poulet",1,"https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2020.2F05.2F20.2Fca48d9a0-f44b-42de-bd70-586999ee3364.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgSVN0b2NrIC8gUmF2c2t5IC8gQ3Vpc2luZSBBY3R1ZWxsZQ%3D%3D/les-nuggets-de-poulet-super-croustillants-de-cyril-lignac.jpeg",6,1
+"Nuggets de poisson",1,"https://img.over-blog-kiwi.com/0/65/19/23/20200707/ob_f5d09a_poisson-pane-maison.jpg",20,1
+"Sandwich au poulet croustillant",3,"https://images.radio-canada.ca/q_auto,w_1200/v1/alimentation/recette/16x9/sandwich-poulet-croustillant.jpg",15,5
+"Sandwich au poisson",3,"https://www.club-sandwich.net/images/photorecettes/criee.jpg",10,4
+"Sandwich au tofu",3,"https://www.bjorg.fr/wp-content/uploads/2016/11/sandwich-au-tofu-fume-2.jpg",11,2
+"Wrap au poulet",3,"https://assets.afcdn.com/recipe/20210603/120582_w1024h1024c1cx1060cy707cxt0cyt0cxb2121cyb1414.jpg",23,4
+"Wrap végétarien",3,"https://www.unileverfoodsolutions.fr/dam/global-ufs/mcos/BENEFRA/calcmenu/recipes/FR-recipes/general/wrap-v%C3%A9g%C3%A9tarien-sauce-bbq/main-header.jpg",23,4
+"Hot-dog classique",1,"https://www.fourchette-et-bikini.fr/sites/default/files/styles/1200x675/public/migration-images/ecb041ca474948c9c7100723de77953c.jpg",23,2
+"Hot-dog chili cheese",2,"https://www.simplyrecipes.com/thmb/7ROH4eqjTVeOIhpR4ZWzLUe4CHQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__simply_recipes__uploads__2010__05__chili-dog-horiz-a-1600-1a1f025054124cd886baab5b14d8d5b6.jpg",22,3
+"Hot-dog bacon",2,"https://www.seriouseats.com/thmb/Ux0hUsEXRt7Mhp8v4A5bIENNMXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__recipes__images__2013__07__20130716-hot-dog-bun-taste-test-8-2ae9024fd3d04bca9937bb79f5862e9a.jpg",11,2
+"Salade César au poulet",2,"https://www.recettesetcabas.com/data/recettes/179-1-fiche@64E35F05-salade-caesar-au-poulet-croustillant.webp",19,4
+"Salade César végétarienne",2,"https://accro.fr/wp-content/uploads/2022/04/accro-recette-salade-caesar-vegetarienne-nuggets-vegetaux-1600x800-c-default.jpg",18,3
+"Salade de poulet grillé",2,"https://www.julieandrieu.com/media/cache/web_recipe_detail/uploads/recettes/plat-principal/ma-salade-cesar.jpg",9,5
+"Salade de thon",2,"https://assets.afcdn.com/recipe/20200831/113641_w1024h1024c1cx966cy780cxt0cyt0cxb1920cyb1080.webp",11,2
+"Salade de césar au bacon",2,"https://m1.quebecormedia.com/emp/rqc_prod/recettes_qc-_-74d83095-e341-4439-8e43-faf4dc772015-_-salade-cesar-poulet-bacon-grande?impolicy=resize&width=1500&height=1500",14,5
+"Chili con carne",2,"https://assets.afcdn.com/recipe/20211222/126214_w1024h576c1cx1124cy721cxt0cyt0cxb2119cyb1415.webp",12,1
+"Chili végétarien",2,"https://img.cuisineaz.com/1024x576/2018/03/14/i136296-recette-chili-vegetarien-sin-carne.jpeg",17,2
+"Pizza pepperoni",2,"https://dxpulwm6xta2f.cloudfront.net/eyJidWNrZXQiOiJhZGMtZGV2LWltYWdlcy1yZWNpcGVzIiwia2V5IjoicGl6emFfcGVwcGVyb25pLmpwZyIsImVkaXRzIjp7ImpwZWciOnsicXVhbGl0eSI6ODB9LCJwbmciOnsicXVhbGl0eSI6ODB9LCJ3ZWJwIjp7InF1YWxpdHkiOjgwfX19",22,4
+"Pizza végétarienne",2,"https://cdn.pratico-pratiques.com/app/uploads/sites/4/2022/02/18090832/pizza-vegetarienne.jpg",21,2
+"Pizza quatre fromages",2,"https://assets.afcdn.com/recipe/20200506/110673_w1024h768c1cx3120cy2080cxt0cyt0cxb6240cyb4160.webp",15,5
+"Pizza barbecue au poulet",2,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRASdwwj9kw-1g-3fQm_x2SZBT7TcWPEozdjxlGL5oUKw046QjqEabwsSxUkKt3APuKDVs&usqp=CAU",15,5
+"Tacos au bœuf",5,"https://brandsitesplatform-res.cloudinary.com/image/fetch/w_1540,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Foldelpaso%2Foldelpaso-fr%2Foepp%2Fnri%2Ftacos-de-boeuf-facon-birria-mexicaine-hero.png%3Fw%3D480%26rev%3Da663805fddd94a5d8e0a17a594f8a002%201540w",11,1
+"Tacos au poulet",5,"https://img.cuisineaz.com/1024x576/2019/04/17/i146583-tacos-poulet-curry.jpeg",23,2
+"Tacos végétariens",5,"https://cdn.pratico-pratiques.com/app/uploads/sites/3/2019/04/24130830/tacos-vegetariens-aux-haricots-rouges-avec-salade-de-tomates.jpg",14,2
+"Burrito au bœuf",5,"https://www.boblechef.com/wp-content/uploads/2015/03/bob-le-chef-recette-burritos-au-boeuf-720x540.png",19,3
+"Burrito au poulet",5,"https://www.oldelpaso.fr/-/media/project/gmi/oldelpaso/oldelpaso-fr/oepp/nri/easy-chicken-burrito/easy-chicken-burrito-hero.png?rev=79ec0bfe7b6b49708acaabe1054f8770",25,4
+"Burrito végétarien",5,"https://www.santamariaworld.com/optimized/maximum/globalassets/_recipes/tex-mex/black-beans-and-goat-cheese-burrito.jpg",10,4
+"Quesadilla au bœuf",5,"https://fr.canadabeef.ca/wp-content/uploads/sites/2/2017/03/Canadian-Beef-Grilled-Mexican-Quesadilla.jpg",24,5
+"Quesadilla au poulet",5,"https://brandsitesplatform-res.cloudinary.com/image/fetch/w_1540,c_scale,q_auto:eco,f_auto,fl_lossy,dpr_1.0,e_sharpen:85/https://assets.brandplatform.generalmills.com%2F-%2Fmedia%2Fproject%2Fgmi%2Foldelpaso%2Foldelpaso-fr%2Foepp%2Fnri%2Fquesadillas-au-poulet-facon-old-el-paso-hero-fr.png%3Fw%3D480%26rev%3D65691f19af804d598f938d0125b8edcd%201540w",21,3
+"Quesadilla végétarienne",5,"https://freethepickle.fr/wp-content/uploads/2018/09/img_6783.jpg",18,1
+"Chicken tenders",5,"https://www.allrecipes.com/thmb/YwJvX75IUx8uQ7PKz2eTDjCoLvY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16669-fried-chicken-tenders-DDMFS-4x3-219f03b885be40139c8d93bef21d0a50.jpg",9,4
+"Cheese sticks",5,"https://natashaskitchen.com/wp-content/uploads/2023/05/Cheese-Sticks-SQ.jpg",9,1
+"Sandwich au fromage grillé",5,"https://lapommeduquebec.ca/wp-content/uploads/2014/09/SandwichFromagePommesP60web.jpg",21,2
+"Club sandwich au poulet",5,"https://cac.img.pmdstatic.net/fit/http.3A.2F.2Fprd2-bone-image.2Es3-website-eu-west-1.2Eamazonaws.2Ecom.2Fcac.2F2018.2F09.2F25.2F6ef6ec4a-2228-4837-a8f7-3ee504618ca9.2Ejpeg/750x562/quality/80/crop-from/center/cr/wqkgTWFyaWVsbGUgLyBTdWNyw6kgU2Fsw6kgLyBDdWlzaW5lIEFjdHVlbGxl/club-sandwich-au-poulet.jpeg",13,2
+"Club sandwich végétarien",5,"https://www.lafeestephanie.com/wp-content/uploads/2017/05/17-1.jpg",19,4

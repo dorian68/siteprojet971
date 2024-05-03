@@ -1,0 +1,25 @@
+{% extends "./base.html" %}
+
+{% block card %}
+<div class="container">
+    <div class="row row-cols-4">
+    {% for elem in data %}
+
+        <div class="col">
+            <div class="card" style="width: 18rem;">
+                <div class="card-body">
+                <img class="me-2" src={{elem.image}} width="250px" height="200px">
+                <h5 class="card-title">{{elem.name}} ${{elem.price}}</h5>
+                <h6 class="card-subtitle mb-2 text-body-secondary"> {{elem.rate}}/5</h6>
+                <p class="card-text"></p>
+                <a href="/addToChart/?id={{elem.article_id}}" class="card-link">Add to chart</a>
+                <!--<a href="#" class="card-link">Another link {{elem}}</a>-->
+                </div>
+            </div>
+        </div>
+
+    <!--{% if forloop.counter|divisibleby:4 %}</div><div class="row">{% endif %}-->
+    {% endfor %}
+    </div>
+<div>
+{% endblock %}
